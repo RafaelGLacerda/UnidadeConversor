@@ -1,10 +1,10 @@
-# Conversor de Unidades 🌐
+# 📏 Conversor de Unidades 🌐
 
-Acesse o aplicativo online aqui: [https://unidadeconversor.netlify.app/](https://unidadeconversor.netlify.app/)
+🌐 Acesse o aplicativo online aqui: [https://unidadeconversor.netlify.app/](https://unidadeconversor.netlify.app/)
 
 ---
 
-## Funcionalidades
+## 🚀 Funcionalidades
 
 - Conversão instantânea de qualquer unidade suportada.
 - Interface limpa e responsiva.
@@ -13,7 +13,7 @@ Acesse o aplicativo online aqui: [https://unidadeconversor.netlify.app/](https:/
 
 ---
 
-## Tecnologias Utilizadas
+## 🧩 Tecnologias Utilizadas
 
 - **HTML5**  
 - **CSS3** (com design responsivo)  
